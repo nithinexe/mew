@@ -1,5 +1,5 @@
 ---
-title: "What-you'll-find"
+title: "What You'll Find"
 date: 2023-05-18T13:58:42+05:30
 ---
 All the academic content written in simple blog posts can be found here. 
