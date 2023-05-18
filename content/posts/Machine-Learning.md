@@ -29,6 +29,16 @@ You ask why a neural network when we could manually tag ourselves, but what if t
 
 ** Well this is an academic blog which means all the content would mostly be in theoretical form, as our college values the quantity of number of pages written rather than the quality of the content.
 To work on a hands on problems refer this [Neural Nets](https://github.com/AayushSameerShah/Neural-Net-Zero-to-Hero-with-Andrej/blob/main/01%20-%20Micrograd/Micrograd%20Foundations.ipynb)
+
+
+### Representation: 
+
+{{< figure src="https://media5.datahacker.rs/2018/08/Features-image-007-Neural-Network-representation.png" >}}
+
+
+
+
+
 <!-- 
 ### Layers and Architecture:
 
