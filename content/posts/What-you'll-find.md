@@ -1,0 +1,2 @@
+All the academic content written in simple blog posts can be found here. 
+These blogs can be used to quickly revise or study while travelling without any external effort of finding your pdfs or class notes.
