@@ -1,7 +1,6 @@
 ---
 title: "Machine Learning"
 date: 2023-05-18T20:24:41+05:30
-<!-- draft: true -->
 ---
 
 # Unit -2 Artificial Neural Networks
