@@ -34,6 +34,43 @@ To work on a hands on problems refer this [Neural Nets](https://github.com/Aayus
 
 {{< figure src="https://media5.datahacker.rs/2018/08/Features-image-007-Neural-Network-representation.png" >}}
 
+### Cost Function: 
+ A cost function is a measure of how well a machine learning model fits the training data. It is used to train the model by finding the model parameters that minimize the cost function.
+
+The cost function is typically a mathematical function that takes the model parameters and the training data as input and outputs a number. The lower the number, the better the model fits the training data.
+
+There are many different types of cost functions, but some of the most common ones include:
+
+**Mean squared error (MSE):** This is the sum of the squared differences between the predicted values and the actual values.
+
+**Cross-entropy:** This is a measure of the difference between the probability distribution of the predicted values and the probability distribution of the actual values.
+
+**Hinge loss:** This is a measure of the margin between the predicted values and the actual values.
+
+### Gradient Descent:
+
+Gradient descent is an optimization algorithm used to minimize a cost function. The cost function measures how well a model fits the training data. Gradient descent works by iteratively moving the model parameters in the direction of the negative gradient of the cost function. This means that gradient descent is always moving in the direction of the steepest descent, which is the direction that will lead to the lowest cost.
+
+Here is an example of how gradient descent can be used to train a linear regression model to predict the price of a house. The training data consists of the following information:
+
+The size of the house in square feet
+The number of bedrooms
+The number of bathrooms
+The location of the house
+The goal is to train a model that can predict the price of a house given its size, number of bedrooms, number of bathrooms, and location.
+
+The first step is to choose an initial set of model parameters. In this case, we will choose the model parameters to be 0.
+
+The next step is to calculate the gradient of the cost function with respect to the model parameters. The gradient of the cost function is the derivative of the cost function with respect to the model parameters. The derivative of the cost function is a vector that tells us how much the cost function will change if we change the model parameters by a small amount.
+
+The final step is to update the model parameters by moving in the direction of the negative gradient. In this case, we will move the model parameters in the direction of the negative gradient by a small amount.
+
+We will repeat the steps above until the cost function converges to a minimum. This means that the model parameters will stop changing and the model will be able to predict the price of a house with a high degree of accuracy.
+
+***This course is ongoing...***
+
+
+
 <!-- 
 ### Layers and Architecture:
 
