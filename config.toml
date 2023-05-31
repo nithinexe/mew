@@ -1,4 +1,4 @@
-baseURL = 'https://nithinexe.github.io/mew/'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Mew'
 theme = 'archie'
@@ -24,7 +24,7 @@ paginate=3 # articles per page
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/Nithin1728"
+url = "https://github.com/nithinexe"
 
 [[params.social]]
 name = "Twitter"
